@@ -45,8 +45,8 @@
 
 <p align="center">
 <a href="https://portfolio-m0zrpa898-monosen.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-portfolio-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/edinson-david-bola%C3%B1os-perdomo-293624212/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:edisonbj21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/edinson-david-bola%C3%B1os-perdomo-293624212/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Edinson%20Bolaños-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:edisonbj21@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-edisonbj21@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Monosen](https://github.com/Monosen)
