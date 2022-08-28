@@ -13,7 +13,7 @@
 <!--   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=00599C) -->
 <!--   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C) -->
 <!--   ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwindcss) -->
-
+<!--
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -42,7 +42,7 @@
 
 
 <br/>
-
+-->
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
